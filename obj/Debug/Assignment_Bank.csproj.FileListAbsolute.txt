@@ -1,0 +1,14 @@
+E:\Programming Codes\Assignment_Bank\bin\Debug\Assignment_Bank.exe.config
+E:\Programming Codes\Assignment_Bank\bin\Debug\Assignment_Bank.exe
+E:\Programming Codes\Assignment_Bank\bin\Debug\Assignment_Bank.pdb
+E:\Programming Codes\Assignment_Bank\obj\Debug\Assignment_Bank.csproj.CoreCompileInputs.cache
+E:\Programming Codes\Assignment_Bank\obj\Debug\Assignment_Bank.exe
+E:\Programming Codes\Assignment_Bank\obj\Debug\Assignment_Bank.pdb
+E:\Programming Codes\Assignment_Bank\obj\Debug\Assignment_Bank.csprojAssemblyReference.cache
+E:\Programming Codes\18-38670-3\Assignment_Bank\bin\Debug\Assignment_Bank.exe.config
+E:\Programming Codes\18-38670-3\Assignment_Bank\bin\Debug\Assignment_Bank.exe
+E:\Programming Codes\18-38670-3\Assignment_Bank\bin\Debug\Assignment_Bank.pdb
+E:\Programming Codes\18-38670-3\Assignment_Bank\obj\Debug\Assignment_Bank.csprojAssemblyReference.cache
+E:\Programming Codes\18-38670-3\Assignment_Bank\obj\Debug\Assignment_Bank.csproj.CoreCompileInputs.cache
+E:\Programming Codes\18-38670-3\Assignment_Bank\obj\Debug\Assignment_Bank.exe
+E:\Programming Codes\18-38670-3\Assignment_Bank\obj\Debug\Assignment_Bank.pdb
